@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Jul 31 10:12:10 CST 2017
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=F\:\\exe\\Base64_fat.jar
+manifest.mergeall=true
+manifest.mainclass=justone.demo
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
